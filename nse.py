@@ -1,6 +1,4 @@
 from nsetools import Nse
-from pprint import pprint
-import time
 
 nse = Nse()
 print(nse)
