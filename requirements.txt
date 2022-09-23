@@ -18,7 +18,7 @@ httplib2==0.17.0
 idna==2.9
 msgpack==1.0.0
 nsetools==1.0.11
-protobuf==3.11.3
+protobuf==3.18.3
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 python-dateutil==2.8.1
